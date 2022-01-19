@@ -21,6 +21,9 @@ public void companyName(int empName,String empId) {
 	System.out.println("order method"+empName+"\t"+empId);
 
 }
+public void sain() {
+System.out.println("sain");
+}
 public static void main(String[] args) {
 	CompanyInfo c = new CompanyInfo();
 	c.companyName("Java");
