@@ -24,6 +24,9 @@ public void companyName(int empName,String empId) {
 public void sain() {
 System.out.println("sain");
 }
+public void sundar() {
+System.out.println();
+}
 public static void main(String[] args) {
 	CompanyInfo c = new CompanyInfo();
 	c.companyName("Java");
